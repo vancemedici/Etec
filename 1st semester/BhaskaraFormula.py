@@ -3,7 +3,7 @@ a = float(input("Insira o valor de a "))
 b = float(input("Insira o valor de b "))
 c = float(input("Insira o valor de c "))
 
-DELTA = math.pow(b, 2) - 4 * a * c
+delta = math.pow(b, 2) - 4 * a * c
 print(f"O valor de delta é {delta:.3f}")
 
 if delta < 0:
