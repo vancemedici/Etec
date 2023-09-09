@@ -30,7 +30,7 @@ public class Velox {
         daily = input.nextDouble();
         System.out.println("Alugaram-o por quantos dias?");
         days = input.nextInt();
-        System.out.println("Foram percorridos quantos quilometros?");
+        System.out.println("Foram percorridos quantos quilômetros?");
         kilometers = input.nextDouble();
 
         expenses = days * daily + kilometers * 0.79;
