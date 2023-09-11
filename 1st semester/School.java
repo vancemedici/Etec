@@ -20,7 +20,7 @@ public class DisplayStudentData {
 
         System.out.println("--------------------Técnico em Informática Ead--------------------");
         System.out.println("Nome: " + name);
-        System.out.println("Teoefone " + phoneNumber);
+        System.out.println("Telefone " + phoneNumber);
         System.out.println("Série " + grade);
         System.out.println("-------------------------------------------------------------------------");
         System.out.println("Média " + average);
